@@ -95,9 +95,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sample2\Sample2.csproj">
+    <ProjectReference Include="..\Sample2\Calculator.csproj">
       <Project>{8565331c-b7bf-4163-aace-7f5258478500}</Project>
-      <Name>Sample2</Name>
+      <Name>Calculator</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
